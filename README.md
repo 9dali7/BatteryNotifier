@@ -7,9 +7,7 @@ Dalibor Jovanovic
 # My Setup Configuration
 To make the executable and then the setup program I use pyinstaller and Inno setup.
 I've made some aliases inside powershell to automate the setup.
-To make it simple compile the main.py file with pyinstaller and rename the .exe file
-with Heic Converter.exe and then run the setup-script.iss file with iscc (Inno Compiler)
-to generate the Heic Converter-Setup.exe file
+To make it simple compile the main.py file with pyinstaller and rename the .exe file with Battery Notifier.exe and then run the setup-script.iss file with iscc (Inno Compiler) to generate the Battery Notifier-Setup.exe file
 
 # Pip Setup
 ```
