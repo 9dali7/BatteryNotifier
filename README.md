@@ -1,5 +1,5 @@
 # Battery Notifier
-A Simple Program For Windows That Notifies The User When The Battery Level Is Low
+A Simple Program For Windows That Notifies The User When The Battery Level Is Low Built In Python
 
 # Author
 Dalibor Jovanovic
